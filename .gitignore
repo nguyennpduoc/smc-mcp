@@ -1,0 +1,26 @@
+# Clack Harness project
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.local
+*.log
+.DS_Store
+.rlcr/
+.humanize/
+.research/
+.claude/
+.codex/
+.gemini/
+.opencode/
+.cursor/
+.turbo/
+.next/
